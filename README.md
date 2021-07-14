@@ -1,7 +1,7 @@
 # Secrets-App
 
-I made this app just to learn Passport.js authentication in Javascript. On this site you can register and login and then you can put any secret of yours which will be visible to others without your name.
-
+I made this app using Passport.js authentication in Javascript. 
+On this site user can register and login and then user can put any secret of theirs which will be visible to others without their name.
 
 
 
