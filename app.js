@@ -9,7 +9,7 @@ const passportLocalMongoose=require("passport-local-mongoose");
 const GoogleStrategy = require('passport-google-oauth20').Strategy;
 const findOrCreate=require("mongoose-findorcreate");
 // const md5=require("md5");//hashing
-// const encrypt=require("mongoose-encryption");//encryption
+// const encrypt=require("mongoose-encryption");//encryption done
 
 const app = express();
 app.set('view engine', 'ejs');
