@@ -5,7 +5,7 @@
 
 
 
-  - App allows user to sign in through Google or Facebook, helps to submit a secret under any name. It displays top three submitted secrets .
+  - App allows user to sign in through Google or Facebook, allows to submit a secret under any name. It displays top three submitted secrets .
   
   - Includes Opinion Mining | banned abusive words.
   
