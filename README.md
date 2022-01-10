@@ -9,4 +9,4 @@
   
   - Includes Opinion Mining | banned abusive words.
   
-  - Technologies used: MERN stack | Hashing passwords | Salting | Restful API's 
+  - Technologies used: MERN stack | Hashing passwords | Salting | Restful API's | Opinion Mining
